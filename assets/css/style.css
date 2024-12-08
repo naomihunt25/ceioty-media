@@ -28,15 +28,23 @@ h3 {
 /* Navbar */
 
 #navbar {
-    background-color: white;
     font-family: var(--secondary-font);
     font-size: 1.25rem;
     text-transform: uppercase;
 }
 
+#navbar
+.navbar-brand,
+.nav-link { 
+    color: var(--primary-color);
+}
+
 #navbar .logo {
     width: 50px;
 }
+
+
+
 
 /* grid visualisation CSS for testing */
 /* .container,
