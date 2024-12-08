@@ -6,10 +6,14 @@
 :root {
     --primary-font: "Nunito", sans-serif;
     --secondary-font: "Exo", serif;
-    --primary-color: #005c6e; /* teal */
-    --secondary-color: #003d4f; /* dark teal */
-    --highlight-color: #96afb8; /* grey */
-    --highlight-color-light: #e5fdff; /* pale blue */
+    --primary-color: #005c6e;
+    /* teal */
+    --secondary-color: #003d4f;
+    /* dark teal */
+    --highlight-color: #96afb8;
+    /* grey */
+    --highlight-color-light: #e5fdff;
+    /* pale blue */
 }
 
 /* Global styles */
@@ -17,12 +21,26 @@ body {
     font-family: var(--primary-font);
 }
 
-h1,
-h2,
-h3 {
+h1 {
     text-transform: uppercase;
     font-family: var(--secondary-font);
     color: var(--primary-color)
+}
+
+h2,
+h3 {
+    font-family: var(--secondary-font);
+    color: var(--primary-color)
+}
+
+p {
+    font-family: var(--primary-font);
+    color: var(--secondary-color);
+}
+
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 /* Navbar */
@@ -33,9 +51,8 @@ h3 {
     text-transform: uppercase;
 }
 
-#navbar
-.navbar-brand,
-.nav-link { 
+#navbar .navbar-brand,
+.nav-link {
     color: var(--primary-color);
 }
 
@@ -43,7 +60,10 @@ h3 {
     width: 50px;
 }
 
-
+/* Header */
+#header .lead {
+    font-family: var(--secondary-font);
+}
 
 
 /* grid visualisation CSS for testing */
