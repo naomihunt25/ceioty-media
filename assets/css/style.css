@@ -1,6 +1,5 @@
-/* Google fonts import - credit: Google Fonts (https://fonts.google.com) */
+/* Google fonts import (https://fonts.google.com) */
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
-
 
 /* CSS Variables */
 :root {
@@ -47,12 +46,12 @@ p {
 
 #navbar {
     font-family: var(--secondary-font);
-    font-size: 1.25rem;
     text-transform: uppercase;
 }
 
-#navbar .navbar-brand,
-.nav-link {
+.navbar-brand,
+.nav-link,
+.custom-toggler {
     color: var(--primary-color);
 }
 
@@ -64,15 +63,3 @@ p {
 #header .lead {
     font-family: var(--secondary-font);
 }
-
-
-/* grid visualisation CSS for testing */
-/* .container,
-.row {
-    border: 2px solid black;
-}
-
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgreen;
-} */
