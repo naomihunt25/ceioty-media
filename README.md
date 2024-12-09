@@ -1,131 +1,58 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Milestone Project 1 - Ceioty Media
 
-Welcome USER_NAME,
+## Project description
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This project is designed for Unit 1: User-Centric Front-End Development, the project involves the design and development of a front-end web application. For the purpose of this project, I have chosen to create a website for **Ceioty Media**, a fictional drone service company that offers drone filming, photography and survey inspection services. This website will be designed with a focus on user experience (UX), utilising responsive design principles, effective content layout, and intuitive navigation to ensure the site is user-friendly across all devices.
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+Though the business context is based on Ceioty Media, the core focus of this project is to apply the web development principles I have learnt in the course so far, demonstrating the skills required to build a functional, professional, and engaging website.
 
-## Gitpod Reminders
+## User experience (UX)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Project goals
+1. **Responsive design**:
+The website will be designed to work across all device types, ensuring an optimal viewing experience for users on desktops, tablets, and smartphones. It will adjust seamlessly to different screen sizes without losing content structure or usability.
 
-`python3 -m http.server`
+2. **Content layout**:
+The content will be laid out in a structured which is easy to navigate, there will be clear sections that allow users to find the information they need quickly. 
 
-A blue button should appear to click: _Make Public_,
+3. **User-centric interface**:
+The site will be designed with a focus on the target audience's needs, ensuring a positive user experience. Features like quick navigation, easy-to-read fonts, and fast load times will be prioritised for ease of access. The content will also be optimised for accessibility, providing an inclusive experience for all users.
 
-Another blue button should appear to click: _Open Browser_.
+4. **Interactive elements**:
+The website will feature interactive elements, such as hover effects, image sliders, and collapsible content sections, making the site engaging and user-friendly. This will encourage users to explore the services offered and contact the company.
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+### Ceioty Media's goals
+1. **Increase customer engagement**: Encourage visitors to explore services, view the portfolio, and contact Ceioty Media for bookings or inquiries.
 
-A blue button should appear to click: _Make Public_,
+2. **Showcase portfolio to raise brand awareness**: Highlight the company’s specialisation in drone services, including event coverage, business promotion, inspections, and B-Roll footage, with visually engaging content.
 
-Another blue button should appear to click: _Open Browser_.
+3. **Simplify user navigation**: Provide an intuitive, seamless user journey with clear calls-to-action and easy access to information.
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+4. **Drive conversions**: Optimise the website for lead generation by placing clear calls-to-action where relevant.
 
-To log into the Heroku toolbelt CLI:
+### User goals
+1. **Quickly understand services**: Visitors to the website should easily identify the services Ceioty Media proves, such as inspections, event filming, or promotional videos.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+2. **Explore portfolio**: Users want to view examples of completed projects to assess the quality of the work.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
+3. **Easily contact the business**: Visitors should find contact options readily accessible via phone, email, or a contact form.
 
-### Connecting your Mongo database
+4. **Find inspiration**: Users looking for creative solutions want to feel inspired by what Ceioty Media can deliver.
 
-- **Connect to Mongo CLI on a IDE**
-- navigate to your MongoDB Clusters Sandbox
-- click **"Connect"** button
-- select **"Connect with the MongoDB shell"**
-- select **"I have the mongo shell installed"**
-- choose **mongosh (2.0 or later)** for : **"Select your mongo shell version"**
-- choose option: **"Run your connection string in your command line"**
-- in the terminal, paste the copied code `mongo "mongodb+srv://<CLUSTER-NAME>.mongodb.net/<DBname>" --apiVersion 1 --username <USERNAME>`
-  - replace all `<angle-bracket>` keys with your own data
-- enter password _(will not echo **\*\*\*\*** on screen)_
+## Design choices
+For the design of the website, I opted for a sleek and minimalistic aesthetic for a clean, modern, and professional user experience. The goal was to create a website that is visually appealing without overwhelming the user with unnecessary elements or clutter. By keeping the design minimal, I aimed to focus attention on the core content including services, portfolio, and contact information, making it easy for visitors to navigate and absorb the important details of the business. This approach also enhances usability and ensures that the website looks polished across all devices and screen sizes, aligning with the principles of responsive design.
 
-------
+### Typography choices
+1. Primary Font: Exo
+I chose Exo as the primary font for the website due to its modern, geometric, and clean design. The font features sharp edges and clear lines that convey professionalism that are essential for a drone services business. Its legibility at various sizes, particularly in headers and titles, ensures that the text remains easily readable across different devices. Additionally, Exo has a futuristic feel, aligning with the technological and innovative nature of the drone industry.
 
-## Release History
+2. Secondary Font: Nunito
+For the secondary font, I chose Nunito for its rounded, approachable, and soft appearance. This font complements Exo by offering a contrast in terms of shape and tone. Nunito provides a sense of warmth and friendliness, balancing the more technical and modern look of Exo. This makes it ideal for body text, as it is easy to read and creates a welcoming atmosphere for visitors. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+The combination of both fonts results in a harmonious and professional design, with Exo bringing a contemporary, high-tech vibe, while Nunito enhances readability and user engagement.
 
-**June 18, 2024,** Add Mongo back into template
+### Icons
+For the icons used throughout the website, I ensured that they were simple, intuitive, and easily understood. By using widely recognised icons, I aimed to reduce any potential confusion and improve the overall user experience. The use of recognisable icons enhances the website's accessibility, as users can quickly understand the meaning of each icon contributing to a clean, uncluttered interface that focuses on content and interaction.
 
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
-
-**May 28 2024:** Fix Mongo and Links installs
-
-**April 26 2024:** Update node version to 16
-
-**September 20 2023:** Update Python version to 3.9.17.
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+### Colour palette
+The colour palette for the website was chosen with both aesthetic appeal and accessibility in mind. The primary color is deep teal (#005C6E), reflecting the company's coastal roots in Pembrokeshire, where much of their portfolio work focuses on capturing stunning coastline views. Other colors used such as gray and blue were selected for their ability to contrast well with the teal, creating a harmonious and balanced design. These colours work together to ensure readability and visual interest, with all combinations checked using a contrast checker tool.
