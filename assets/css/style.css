@@ -2,10 +2,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 /* Fonts (credit: Google Fonts - https://fonts.google.com/ */
-body {
-    font-family: "Nunito", sans-serif;
+
+/* CSS Variables */
+:root {
+    --primary-font: "Nunito", sans-serif;
+    --secondary-font: "Exo", serif;
+    --primary-color: #005c6e;
+    /* teal */
+    --secondary-color: #003d4f;
+    /* dark teal */
+    --highlight-color: #96afb8;
+    /* grey */
+    --highlight-color-light: #e5fdff;
+    /* pale blue */
 }
 
-h1 {
-    font-family: "Exo", serif;
+/* Global styles */
+h1,
+h2,
+h3 {
+    font-family: var(--secondary-font);
+    color: var(--primary-color)
+}
+
+p {
+    font-family: var(--primary-font);
+    color: var(--primary-color);
 }
