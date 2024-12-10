@@ -60,6 +60,14 @@ p {
 }
 
 /* About section */
+#about {
+    background-color: var(--secondary-color);
+}
+
+#about h2, p {
+    color: white;
+}
+
 #about .about-image {
     max-width: 100px;
 }
