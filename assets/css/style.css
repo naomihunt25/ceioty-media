@@ -94,7 +94,8 @@ p {
     color: var(--primary-color);
 }
 
-/* Footer / contact section */
+/* Footer section */
+/*Contact section */
 #contact {
     background-color: var(--secondary-color);
     color: white;
@@ -113,4 +114,9 @@ p {
 #contact .social-favicons i {
     color: var(--highlight-color);
     font-size: 2rem;
+}
+
+/* Copyright section */
+#copyright p {
+    font-size: 10px;
 }
