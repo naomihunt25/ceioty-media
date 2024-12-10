@@ -37,6 +37,7 @@ h2 {
 
 .section {
     padding-top: 3rem;
+    padding-bottom: 2rem;
 }
 
 /* Navbar */
@@ -90,7 +91,7 @@ p {
 }
 
 #about .about-image {
-    max-width: 80px;
+    max-width: 100px;
     padding-bottom: 1rem;
 }
 
@@ -114,6 +115,7 @@ p {
 #contact {
     background-color: var(--secondary-color);
     color: white;
+    padding-top: 3rem;
 }
 
 #contact h2 {
@@ -125,13 +127,20 @@ p {
     margin-right: 10px;
 }
 
-
 #contact .social-favicons i {
     color: var(--highlight-color);
     font-size: 2rem;
+    padding-bottom: 1rem;
+    transition: color 0.2s ease-in-out;
+}
+
+#contact .social-favicons i:hover {
+    color: var(--highlight-color-light);
 }
 
 /* Copyright section */
-#copyright p {
+#copyright p{
+    color: var(--highlight-color);
     font-size: 10px;
+    margin: 0 0 10px
 }
