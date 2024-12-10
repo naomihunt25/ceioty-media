@@ -95,12 +95,22 @@ p {
 }
 
 /* Footer / contact section */
-#contact p {
-    color: var(--primary-color);
-
+#contact {
+    background-color: var(--secondary-color);
+    color: white;
 }
 
+#contact h2 {
+    color: white;
+}
+
+#contact i {
+    color: var(--highlight-color);
+    margin-right: 10px;
+}
+
+
 #contact .social-favicons i {
-    color: var(--primary-color);
+    color: var(--highlight-color);
     font-size: 2rem;
 }
