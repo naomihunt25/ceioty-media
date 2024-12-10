@@ -30,6 +30,10 @@ h3 {
     color: var(--primary-color);
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
 .section {
     padding-top: 3rem;
 }
