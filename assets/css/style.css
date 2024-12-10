@@ -35,9 +35,10 @@ p {
 .row {
     border: 2px solid black;
 }
+
 .col-12 {
     border: 2px solid white;
-    background-color: lightgreen; 
+    background-color: lightgreen;
 }
 
 /* Navbar */
@@ -47,6 +48,13 @@ p {
     font-size: 1.25rem;
     text-transform: uppercase;
 }
+
 #navbar .logo {
     width: 50px;
+}
+
+#navbar .navbar-brand,
+.nav-link,
+.navbar-toggler {
+    color: var(--primary-color)
 }
