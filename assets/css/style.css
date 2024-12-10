@@ -72,8 +72,10 @@ p {
 /* Brief service section on Home page */
 #brief-services .card {
     border: none;
+    min-height: auto;
 }
 
-#brief-services .card-body {
-    min-height: auto;
+#brief-services .card-img-top {
+    max-width: 120px;
+    align-self: center;
   }
