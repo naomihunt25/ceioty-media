@@ -159,7 +159,8 @@ hr {
 }
 
 #media .modal-fullscreen {
-    height: calc((85vw/16)*9);
+    aspect-ratio: 16 / 9;
+    width: 100%;
 }
 
 /* Contact Us page */
@@ -208,7 +209,7 @@ hr {
 #contact .social-favicons i:hover {
     color: var(--highlight-color-light);
     transition: color 0.3s ease-in-out;
-    
+
 }
 
 /* Copyright section */
@@ -216,7 +217,6 @@ hr {
 #copyright p {
     color: var(--highlight-color);
     font-size: 10px;
-    margin: 0 0 10px
 }
 
 /* Media queries */
@@ -227,5 +227,10 @@ hr {
     /* Make all service cards the same height for consistency */
     #list-of-services .col-lg-8 {
         text-align: left;
+    }
+
+    #media {
+        column-count: 3;
+        font-size: 0;
     }
 }
