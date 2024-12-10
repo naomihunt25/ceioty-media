@@ -1,5 +1,7 @@
 # Milestone Project 1 - Ceioty Media
 
+![Responsive mockup of website](assets/images/ceioty-media-mockup.webp)
+
 ## Project description
 
 This project is designed for Unit 1: User-Centric Front-End Development, the project involves the design and development of a front-end web application. For the purpose of this project, I have chosen to create a website for **Ceioty Media**, a fictional drone service company that offers drone filming, photography and survey inspection services. This website will be designed with a focus on user experience (UX), utilising responsive design principles, effective content layout, and intuitive navigation to ensure the site is user-friendly across all devices.
