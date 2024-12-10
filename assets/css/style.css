@@ -30,6 +30,10 @@ p {
     color: var(--primary-color);
 }
 
+.section {
+    padding-top: 1rem;
+ }
+
 /* grid visualisation CSS for testing */
 .container,
 .row {
@@ -63,5 +67,9 @@ p {
 /* About section */
 #about .about-image {
     max-width: 100px;
-    min-height: auto;
+}
+
+/* Brief service section on Home page */
+#brief-services .service-img {
+    max-width: 100px;
 }
