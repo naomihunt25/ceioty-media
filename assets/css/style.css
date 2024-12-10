@@ -39,3 +39,14 @@ p {
     border: 2px solid white;
     background-color: lightgreen; 
 }
+
+/* Navbar */
+#navbar {
+    background-color: white;
+    font-family: var(--secondary-font);
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
+#navbar .logo {
+    width: 50px;
+}
