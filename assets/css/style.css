@@ -42,6 +42,19 @@ h2 {
     padding-bottom: 2rem;
 }
 
+/* Buttons */
+.custom-button-outline {
+    border: 3px solid var(--secondary-color);
+    padding: 7px 25px;
+    color: var(--secondary-color);
+}
+
+.custom-button-outline:hover {
+    color: white;
+    background-color: var(--secondary-color);
+    transition: color 0.3s ease-in-out;
+}
+
 /* Navbar */
 
 #navbar {
@@ -155,10 +168,16 @@ hr {
     padding-bottom: 4rem;
 }
 
+
 /* Success page */
 
 #success p {
     color: var(--primary-color);
+    padding-bottom: 1rem;
+}
+
+#success h1 {
+    padding-bottom: 1rem;
 }
 
 /* Footer section */
@@ -184,11 +203,12 @@ hr {
     color: var(--highlight-color);
     font-size: 2rem;
     padding-bottom: 1rem;
-    transition: color 0.2s ease-in-out;
 }
 
 #contact .social-favicons i:hover {
     color: var(--highlight-color-light);
+    transition: color 0.3s ease-in-out;
+    
 }
 
 /* Copyright section */
