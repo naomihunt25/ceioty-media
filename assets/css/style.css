@@ -69,3 +69,7 @@ p {
   }
 
 /* Footer / contact section */
+#contact .social-favicons i {
+    color: var(--primary-color);
+    font-size: 2rem;
+}
