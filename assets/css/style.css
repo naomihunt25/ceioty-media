@@ -148,6 +148,11 @@ hr {
     height: calc((85vw/16)*9);
 }
 
+/* Contact Us page */
+#contact-form {
+    padding-bottom: 4rem;
+}
+
 /* Footer section */
 
 /*Contact section */
