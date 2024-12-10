@@ -81,7 +81,8 @@ p {
 }
 
 #about .about-image {
-    max-width: 100px;
+    max-width: 80px;
+    padding-bottom: 1rem;
 }
 
 /* Brief service section on Home page */
