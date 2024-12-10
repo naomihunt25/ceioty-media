@@ -73,3 +73,7 @@ p {
 #brief-services .card {
     border: none;
 }
+
+#brief-services .card-body {
+    min-height: auto;
+  }
