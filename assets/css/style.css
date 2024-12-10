@@ -22,17 +22,16 @@ h1,
 h2,
 h3 {
     font-family: var(--secondary-font);
-    color: var(--primary-color)
+    color: var(--primary-color);
 }
 
 p {
     font-family: var(--primary-font);
-    color: var(--primary-color);
 }
 
 .section {
     padding-top: 1rem;
- }
+}
 
 /* Navbar */
 #navbar {
@@ -59,12 +58,20 @@ p {
     font-size: 1rem;
 }
 
+/* Header */
+#header p {
+    color: var(--primary-color);
+}
+
+
+
 /* About section */
 #about {
     background-color: var(--secondary-color);
 }
 
-#about h2, p {
+#about h2,
+p {
     color: white;
 }
 
@@ -81,9 +88,18 @@ p {
 #brief-services .card-img-top {
     max-width: 120px;
     align-self: center;
-  }
+}
+
+#brief-services p {
+    color: var(--primary-color);
+}
 
 /* Footer / contact section */
+#contact p {
+    color: var(--primary-color);
+
+}
+
 #contact .social-favicons i {
     color: var(--primary-color);
     font-size: 2rem;
