@@ -70,6 +70,9 @@ h3 {
 /* About section */
 #about {
     background-color: var(--secondary-color);
+    margin: 0;
+    min-width: 100%;
+    padding-bottom: 2rem;
 }
 
 #about h2,
