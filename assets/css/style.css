@@ -34,18 +34,6 @@ p {
     padding-top: 1rem;
  }
 
-/* grid visualisation CSS for testing */
-.container,
-.row {
-    border: 2px solid black;
-}
-
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgreen;
-}
-
-
 /* Navbar */
 #navbar {
     background-color: white;
@@ -79,3 +67,5 @@ p {
     max-width: 120px;
     align-self: center;
   }
+
+/* Footer / contact section */
