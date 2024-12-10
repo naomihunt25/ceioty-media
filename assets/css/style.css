@@ -21,7 +21,8 @@
 
 body {
     font-family: var(--primary-font);
-    padding-top: 40px; /* top of header pushed down making it visible under fixed navbar */
+    padding-top: 40px;
+    /* top of header pushed down making it visible under fixed navbar */
 }
 
 h1,
@@ -149,8 +150,15 @@ hr {
 }
 
 /* Contact Us page */
+
 #contact-form {
     padding-bottom: 4rem;
+}
+
+/* Success page */
+
+#success p {
+    color: var(--primary-color);
 }
 
 /* Footer section */
@@ -185,7 +193,7 @@ hr {
 
 /* Copyright section */
 
-#copyright p{
+#copyright p {
     color: var(--highlight-color);
     font-size: 10px;
     margin: 0 0 10px
@@ -195,6 +203,7 @@ hr {
 
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
+
     /* Make all service cards the same height for consistency */
     #list-of-services .col-lg-8 {
         text-align: left;
