@@ -109,6 +109,21 @@ p {
     color: var(--primary-color);
 }
 
+/* Our services page */
+#list-of-services p {
+    color: var(--primary-color);
+}
+
+#list-of-services .service-icons {
+    max-width: 120px;
+    min-height: auto;
+}
+
+hr {
+    padding-bottom: 1rem;
+    color: var(--highlight-color);
+}
+
 /* Footer section */
 /*Contact section */
 #contact {
