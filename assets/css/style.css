@@ -32,6 +32,7 @@ h3 {
 
 h2 {
     text-transform: uppercase;
+    padding-bottom: ;
 }
 
 .section {
@@ -65,6 +66,10 @@ h2 {
 }
 
 /* Header */
+#header {
+    padding-bottom: 2rem;
+}
+
 #header p {
     color: var(--primary-color);
 }
