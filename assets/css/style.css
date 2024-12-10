@@ -38,18 +38,25 @@ p {
 #navbar {
     background-color: white;
     font-family: var(--secondary-font);
-    font-size: 1.25rem;
+    color: var(--primary-color);
+    font-size: 1rem;
     text-transform: uppercase;
+    padding-top: 1.5rem;
 }
 
 #navbar .logo {
-    width: 50px;
+    width: 30px;
 }
 
 #navbar .navbar-brand,
 .nav-link,
 .navbar-toggler {
     color: var(--primary-color)
+}
+
+.navbar-brand,
+.nav-item {
+    font-size: 1rem;
 }
 
 /* About section */
