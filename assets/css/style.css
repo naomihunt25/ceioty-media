@@ -78,11 +78,11 @@ h2 {
 }
 
 /* Header */
-#header {
+.header {
     padding-bottom: 2rem;
 }
 
-#header p {
+.header p {
     color: var(--primary-color);
 }
 
@@ -105,17 +105,17 @@ p {
 }
 
 /* Brief service section on Home page */
-#brief-services .card {
+.brief-services .card {
     border: none;
     min-height: auto;
 }
 
-#brief-services .card-img-top {
+.brief-services .card-img-top {
     max-width: 120px;
     align-self: center;
 }
 
-#brief-services p {
+.brief-services p {
     color: var(--primary-color);
 }
 
@@ -202,7 +202,7 @@ iframe {
 }
 
 /* Copyright section */
-.copyright p {
+copyright p {
     color: var(--highlight-color);
     font-size: 10px;
 }
