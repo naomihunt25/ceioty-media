@@ -1,6 +1,6 @@
 # Milestone Project 1 - Ceioty Media
 
-![Responsive mockup of website](assets/images/ceioty-media-mockup.webp)
+![Responsive mockup of website](readme-images/ceioty-media-mockup.webp)
 
 ***
 
@@ -72,19 +72,19 @@ The colour palette for the website was chosen with both aesthetic appeal and acc
 The wireframes below showcase the designs planned the Ceioty Media website. They serve as a blueprint to guide the development process, ensuring that the site is user-focused and meets the needs of its intended audience.
 
 ### Index page design
-![Index page wireframe](assets/images/index-page-wireframe.webp)
+![Index page wireframe](readme-images/index-page-wireframe.webp)
 
 ### Services page design
-![Services page wireframe](assets/images/service-page-wirefram.webp)
+![Services page wireframe](readme-images/service-page-wirefram.webp)
 
 ### Portfolio page design
-![Portfolio page wireframe](assets/images/portfolio-page-wireframe.webp)
+![Portfolio page wireframe](readme-images/portfolio-page-wireframe.webp)
 
 ### Contact page design
-![Contact page wireframe](assets/images/contact-page-wireframe.webp)
+![Contact page wireframe](readme-images/contact-page-wireframe.webp)
 
 ### Success page design
-![Success page wireframe](assets/images/success-page-wire-frame.webp)
+![Success page wireframe](readme-images/success-page-wire-frame.webp)
 
 ***
 
@@ -93,38 +93,38 @@ The wireframes below showcase the designs planned the Ceioty Media website. They
 The home page serves as the first point of interaction for users, designed to be visually striking and informative (User story 1 and 5):
 - **Autoplay slideshow section**: Features a variety of images take by Ceioty Media to show straight away their previous work.  
 - **Navigation bar**: A responsive navigation bar allows easy access to all major pages, ensuring a seamless experience across devices. <br><br>
- ![Home page screenshot](assets/images/features-homepage.webp)
+ ![Home page screenshot](readme-images/features-homepage.webp)
 
 ### **Services page**
 The services page details the range of professional drone services offered by Ceioty Media (User story 2 and 4):
 - **Service descriptions**: Each service is clearly explained, so visitors can clearly see what Ceioty Media has to offer.  
 - **Visual elements**: Accompanied by high-quality images to provide context and showcase expertise. <br><br>
-![Service page screenshot](assets/images/features-services-page.webp)
+![Service page screenshot](readme-images/features-services-page.webp)
 
 ### **Portfolio page**
 The portfolio page is a showcase of Ceioty Media’s best work, designed to impress and inform potential clients (User story 3):
 - **Gallery layout**: A responsive grid displays high-resolution images and embedded videos.  
 - **Variety of project**: The portfolio highlights a diverse array of projects that demonstrate Ceioty Media's expertise and creativity. <br><br>
-![Portfolio page screenshot](assets/images/features-portfolio-page.webp)
+![Portfolio page screenshot](readme-images/features-portfolio-page.webp)
 
 ### **About us page**
 The about page provides an overview of Ceioty Media’s history, expertise, and passion for creativity:
 - **Professional and personal Tone**: Highlights the company's story, from its establishment in 2020 to its mission of delivering unique perspectives.  
 - **Credentials and insurance**: Emphasises trustworthiness with details of drone licensing, £5 million public liability insurance, and commercial coverage. <br><br>  
-![About section screenshot](assets/images/features-about-us.webp)
+![About section screenshot](readme-images/features-about-us.webp)
 
 ### **Contact page**
 The contact page makes it simple for clients to get in touch (User story 7):
 - **Contact form**: Includes fields for name, email, and a message, ensuring clear communication.  
 - **Success feedback**: Users are redirected to a submission success page, confirming their message has been received.  
 - **Location details**: Includes information about Ceioty Media’s location. <br><br> 
-![Contact page screenshot](assets/images/features-contact-us-page.webp)
-![Success page screenshot](assets/images/features-success-page.webp)
+![Contact page screenshot](readme-images/features-contact-us-page.webp)
+![Success page screenshot](readme-images/features-success-page.webp)
 
 ### **Footer**
 The footer is consistently present across all pages and provides useful links and contact information:
 - **Social media integration**: Links to Ceioty Media’s social media accounts, encouraging engagement. <br><br>  
-![Footer screenshot](assets/images/features-footer.webp)
+![Footer screenshot](readme-images/features-footer.webp)
 
 ***
 
@@ -160,25 +160,25 @@ The footer is consistently present across all pages and provides useful links an
 I utilised Lighthouse within the Google DevTools to review the colours and fonts used. The outcomes are displayed below. Lighthouse also evaluates areas such as Performance, SEO, and Best Practices.
 
 **Index page** <br>
-![lighthouse result index page](assets/images/lighthouse-index.webp)
+![lighthouse result index page](readme-images/lighthouse-index.webp)
 
 **Services page** <br>
-![lighthouse result services page](assets/images/lighthouse-services.webp)
+![lighthouse result services page](readme-images/lighthouse-services.webp)
 
 **Portfolio page** <br>
-![lighthouse result portfolio page](assets/images/lighthouse-portfolio.webp) <br>
+![lighthouse result portfolio page](readme-images/lighthouse-portfolio.webp) <br>
 The portfolio page received a score of 77 for performance and 78 for best practices during the Google DevTools Lighthouse audit.<br>
 
 *Performance*: The page scored 77 because, although the images were compressed and converted to the WebP format to optimise loading times, the high-quality images used were necessary to showcase the drone services effectively. This aligns with the requirements of User Story 4, which emphasised presenting high-resolution visuals to highlight the offerings. Additionally, YouTube videos were embedded instead of using the video tag, helping to improve loading speed by utilising YouTube's optimised streaming infrastructure.<br>
 
-![lighthouse result portfolio page](assets/images/lighthouse-portfolio-best-practices.webp) <br>
+![lighthouse result portfolio page](readme-images/lighthouse-portfolio-best-practices.webp) <br>
 *Best practices*: The score of 78 was impacted by warnings about the use of third-party cookies, which arose from embedding YouTube videos. Since these cookies are an inherent part of YouTube's embedding functionality, they could not be modified or removed.
 
 **Contact page** <br>
-![lighthouse result contact page](assets/images/lighthouse-contact.webp)
+![lighthouse result contact page](readme-images/lighthouse-contact.webp)
 
 **Success page** <br>
-![lighthouse result success page](assets/images/lighthouse-success.webp)
+![lighthouse result success page](readme-images/lighthouse-success.webp)
 
 ### Manual testing
 - I’ve tested the website to ensure it functions across multiple web browsers. 
@@ -191,27 +191,27 @@ Below are some screenshots showcasing how the site appears on different devices.
 ### Desktop
 |Chrome 131.0.6778.109|Safari 17.4.1|Firefox 133.0|
 | ------------- | ------------- | ------------- |
-|![chrome index page](assets/images/chrome-index.webp)|![safari index page](assets/images/safari-index.webp)|![firefox index page](assets/images/firefox-index.webp)|
-|![chrome services page](assets/images/chrome-services.webp)|![safari services page](assets/images/safari-services.webp)|![firefox services page](assets/images/firefox-services.webp)|
-|![chrome portfolio page](assets/images/chrome-portfolio.webp)|![safari portfolio page](assets/images/safari-portfolio.webp)|![firefox portfolio page](assets/images/firefox-portfolio.webp)|
-|![chrome contact page](assets/images/chrome-contact.webp)|![safari contact page](assets/images/safari-contact.webp)|![firefox contact page](assets/images/firefox_contact.webp)|
-|![chrome success page](assets/images/chrome-success.webp)|![safari success page](assets/images/safari-success.webp)|![firefox success page](assets/images/firefox-success.webp)|
+|![chrome index page](readme-images/chrome-index.webp)|![safari index page](readme-images/safari-index.webp)|![firefox index page](readme-images/firefox-index.webp)|
+|![chrome services page](readme-images/chrome-services.webp)|![safari services page](readme-images/safari-services.webp)|![firefox services page](readme-images/firefox-services.webp)|
+|![chrome portfolio page](readme-images/chrome-portfolio.webp)|![safari portfolio page](readme-images/safari-portfolio.webp)|![firefox portfolio page](readme-images/firefox-portfolio.webp)|
+|![chrome contact page](readme-images/chrome-contact.webp)|![safari contact page](readme-images/safari-contact.webp)|![firefox contact page](readme-images/firefox_contact.webp)|
+|![chrome success page](readme-images/chrome-success.webp)|![safari success page](readme-images/safari-success.webp)|![firefox success page](readme-images/firefox-success.webp)|
 
 ### Mobile and tablet
 |Mobile - Safari iOS 18|||
 | ------------- | ------------- |------------- |
-|![Safari ios mobile index page](assets/images/ios-mobile-index.webp)|![Safari ios mobile navbar](assets/images/ios-mobile-navbar.webp)|![Safari ios mobile services page](assets/images/ios-mobile-services.webp)| 
-|![Safari ios mobile portfolio page](assets/images/ios-mobile-portfolio.webp)|![Safari ios mobile contact page](assets/images/ios-mobile-contact.webp)|![Safari ios mobile success page](assets/images/ios-mobile-success.webp)| 
+|![Safari ios mobile index page](readme-images/ios-mobile-index.webp)|![Safari ios mobile navbar](readme-images/ios-mobile-navbar.webp)|![Safari ios mobile services page](readme-images/ios-mobile-services.webp)| 
+|![Safari ios mobile portfolio page](readme-images/ios-mobile-portfolio.webp)|![Safari ios mobile contact page](readme-images/ios-mobile-contact.webp)|![Safari ios mobile success page](readme-images/ios-mobile-success.webp)| 
 
 |Android mobile - Chrome 131|||
 | ------------- | ------------- |------------- |
-|![Android mobile index page](assets/images/android-mobile-index.webp)|![Android mobile navbar](assets/images/android-mobile-navbar.webp)|![Android mobile services page](assets/images/android-mobile-services.webp)|
-|![Android mobile portfolio page](assets/images/android-mobile-portfolio.webp)|![Android mobile contact page](assets/images/android-mobile-contact.webp)|![Android mobile success page](assets/images/android-mobile-success.webp)| 
+|![Android mobile index page](readme-images/android-mobile-index.webp)|![Android mobile navbar](readme-images/android-mobile-navbar.webp)|![Android mobile services page](readme-images/android-mobile-services.webp)|
+|![Android mobile portfolio page](readme-images/android-mobile-portfolio.webp)|![Android mobile contact page](readme-images/android-mobile-contact.webp)|![Android mobile success page](readme-images/android-mobile-success.webp)| 
 
 |Tablet - Safari iOS 18|||
 | ------------- | ------------- |------------- |
-|![Safari ios tablet index page](assets/images/tablet-index.webp)|![Safari ios tablet navbar](assets/images/tablet-navbar.png)|![Safari ios tablet services page](assets/images/tablet-services.webp)|
-|![Safari ios tablet portfolio page](assets/images/tablet-portfolio.webp)|![Safari ios tablet contact page](assets/images/tablet-contact.webp)|![Safari ios tablet success page](assets/images/tablet-success.webp)| 
+|![Safari ios tablet index page](readme-images/tablet-index.webp)|![Safari ios tablet navbar](readme-images/tablet-navbar.webp)|![Safari ios tablet services page](readme-images/tablet-services.webp)|
+|![Safari ios tablet portfolio page](readme-images/tablet-portfolio.webp)|![Safari ios tablet contact page](readme-images/tablet-contact.webp)|![Safari ios tablet success page](readme-images/tablet-success.webp)| 
 
 ***
 
