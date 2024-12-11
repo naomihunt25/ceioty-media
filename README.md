@@ -32,14 +32,17 @@ The website will feature interactive elements, such as hover effects, image slid
 
 4. **Drive conversions**: Optimise the website for lead generation by placing clear calls-to-action where relevant.
 
-### User goals
-1. **Quickly understand services**: Visitors to the website should easily identify the services Ceioty Media proves, such as inspections, event filming, or promotional videos.
-
-2. **Explore portfolio**: Users want to view examples of completed projects to assess the quality of the work.
-
-3. **Easily contact the business**: Visitors should find contact options readily accessible via phone, email, or a contact form.
-
-4. **Find inspiration**: Users looking for creative solutions want to feel inspired by what Ceioty Media can deliver.
+### User stories
+|No.|User Story|
+| ------------- | ------------- |
+|1|As a **visitor**, I want to view a visually appealing and professional homepage so that I can quickly understand what services Ceioty Media offers. <br><br>**Task:** Ensure visitors can see a clear introduction, key services, and calls to action.|
+|2|As a **potential client**, I want to learn about the drone services offered so that I can determine if they fit my project needs. <br><br>**Task:** Write descriptions of services (e.g. filming, photography, inspections) are available on the services page.|
+|3|As a **business owner**, I want to see examples of past work so that I can assess the quality of work and creativity. <br><br>**Task:** Creat a portfolio page that displays high-quality images and videos of past work.|
+|4|As a **property manager**, I want to learn about commercial property services so that I can enhance my property listings with aerial footage. <br><br>**Task:** Write information on commercial property services on the services page and add work to portfolio.|
+|5|As a **visitor**, I want to easily navigate the website so that I can find the information I need quickly and efficiently. <br><br>**Task:** the website has a clear navigation bar with links to key pages.|
+|6|As a **mobile user**, I want the website to be fully responsive so that I can access it seamlessly on any device. <br><br>**Task:** Ensure the website displays correctly on different screen sizes and are easy to navigate on mobile and tablet devices.|
+|7|As a **potential client**, I want to be able to contact Ceioty Media easily so that I can enquire about services or request a quote. <br><br>**Task:** Create a contact page which includes a contact form, phone number, and email address.|
+|8|As a **user with a visual impairment**, I want the site to be accessible so that I can comfortably navigate and use its features. <br><br>**Task:** Ensure the site passes accessibility tests, including contrast checks and screen reader compatibility.|
 
 ## Design choices
 For the design of the website, I opted for a sleek and minimalistic aesthetic for a clean, modern, and professional user experience. The goal was to create a website that is visually appealing without overwhelming the user with unnecessary elements or clutter. By keeping the design minimal, I aimed to focus attention on the core content including services, portfolio, and contact information, making it easy for visitors to navigate and absorb the important details of the business. This approach also enhances usability and ensures that the website looks polished across all devices and screen sizes, aligning with the principles of responsive design.
