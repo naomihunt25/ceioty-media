@@ -79,3 +79,35 @@ The wireframes below showcase the designs planned the Ceioty Media website. They
 
 ### Success page design
 ![Success page wireframe](assets/images/success-page-wire-frame.webp)
+
+## Features
+### **Home page**
+The home page serves as the first point of interaction for users, designed to be visually striking and informative:
+- **Hero section**: Features a captivating background image of Pembrokeshire’s coastline, along with the company name and slogan, reflecting the brand identity.  
+- **Introduction**: Provides a concise overview of Ceioty Media’s services, showcasing their expertise and creative approach.  
+- **Navigation bar**: A responsive navigation bar allows easy access to all major pages, ensuring a seamless experience across devices.
+
+### **Services page**
+The services page details the range of professional drone services offered by Ceioty Media:
+- **Service descriptions**: Each service is clearly explained, so visitors can clearly see what Ceioty Media has to offer.  
+- **Visual elements**: Accompanied by high-quality images to provide context and showcase expertise. 
+
+### **Portfolio page**
+The portfolio page is a showcase of Ceioty Media’s best work, designed to impress and inform potential clients:
+- **Gallery layout**: A responsive grid displays high-resolution images and embedded videos.  
+- **Variety of project**: The portfolio highlights a diverse array of projects that demonstrate Ceioty Media's expertise and creativity.
+
+### **About us page**
+The about page provides an overview of Ceioty Media’s history, expertise, and passion for creativity:
+- **professional and personal Tone**: Highlights the company's story, from its establishment in 2020 to its mission of delivering unique perspectives.  
+- **Credentials and insurance**: Emphasizes trustworthiness with details of drone licensing, £5 million public liability insurance, and commercial coverage.  
+
+### **Contact page**
+The contact page makes it simple for clients to get in touch:
+- **Contact form**: Includes fields for name, email, and a message, ensuring clear communication.  
+- **Success feedback**: Users are redirected to a submission success page, confirming their message has been received.  
+- **Location details**: Includes information about Ceioty Media’s location.  
+
+### **Footer**
+The footer is consistently present across all pages and provides useful links and contact information:
+- **Social Media integration**: Links to Ceioty Media’s social media accounts, encouraging engagement.  
