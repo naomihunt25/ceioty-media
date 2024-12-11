@@ -61,3 +61,21 @@ For the icons used throughout the website, I ensured that they were simple, intu
 
 ### Colour palette
 The colour palette for the website was chosen with both aesthetic appeal and accessibility in mind. The primary colour is deep teal (#005C6E), reflecting the company's coastal roots in Pembrokeshire, where much of their portfolio work focuses on capturing stunning coastline views. The colour combinations used were also checked using a contrast checker tool.
+
+## Wireframes (UX)
+The wireframes below showcase the designs planned the Ceioty Media website. They serve as a blueprint to guide the development process, ensuring that the site is user-focused and meets the needs of its intended audience.
+
+### Index page design
+![Index page wireframe](assets/images/index-page-wireframe.webp)
+
+### Services page design
+![Services page wireframe](assets/images/service-page-wirefram.webp)
+
+### Portfolio page design
+![Portfolio page wireframe](assets/images/portfolio-page-wireframe.webp)
+
+### Contact page design
+![Contact page wireframe](assets/images/contact-page-wireframe.webp)
+
+### Success page design
+![Success page wireframe](assets/images/success-page-wire-frame.webp)
