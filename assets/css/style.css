@@ -173,13 +173,12 @@ iframe {
 
 
 /* Success page */
-
-#success p {
+.success p {
     color: var(--primary-color);
     padding-bottom: 1rem;
 }
 
-#success h1 {
+.success h1 {
     padding-bottom: 1rem;
 }
 
