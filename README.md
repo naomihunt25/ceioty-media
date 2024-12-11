@@ -216,3 +216,64 @@ Below are some screenshots showcasing how the site appears on different devices.
 |![Safari ios tablet portfolio page](assets/images/tablet-portfolio.webp)|![Safari ios tablet contact page](assets/images/tablet-contact.webp)|![Safari ios tablet success page](assets/images/tablet-success.webp)| 
 
 ***
+
+### Fixed bugs
+#### Bug 1
+The background colour for the About section was not spanning the full width of the page.<br><br>
+*Original code*:<br>
+```css
+#about {
+    background-color: var(--secondary-color);
+}
+```
+*New code*:<br>
+```css
+#about {
+    background-color: var(--secondary-color);
+    margin: 0;
+    min-width: 100%;
+    padding-bottom: 2rem;
+}
+```
+#### Bug 2
+The embedded Youtube videos were not showing full height to match the height of the images on portfolio page.<br><br>
+*Original code*:<br>
+```css
+#media {
+    line-height: 0;
+}
+```
+*New code*:<br>
+```css
+#media {
+    line-height: 0;
+}
+
+#media .modal-fullscreen {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+```
+#### Bug 3
+The portfolio page media was showing white space in between columns.<br><br>
+*Original code*:<br>
+```css
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+
+    #media {
+        column-count: 3;
+    }
+}
+```
+*New code*:<br>
+```css
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+
+    #media {
+        column-count: 3;
+        font-size: 0;
+    }
+}
+```
