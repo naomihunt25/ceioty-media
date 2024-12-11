@@ -313,7 +313,11 @@ Live link - [Ceioty Media](https://naomihunt25.github.io/ceioty-media/index.html
 - I used [Bootstrap](https://getbootstrap.com/) v5.3 to create key elements within the site including the auto-play slideshow, buttons and form
 - To ensure a thorough understanding of HTML and CSS code I wasn't confident with before implementation, I referred to [W3Schools](https://www.w3schools.com/) for guidance
 
+### Colour palette
+- I used [ColorSpace](https://mycolor.space/?hex=%2300FFD2&sub=1) to create the colour paletter for the site
+
 ### Fonts
+- I used [Fontjoy](https://fontjoy.com/) to choose my primary and secondary font
 - The primary and secondary font that were used were from [Google Fonts](https://fonts.google.com/)
 
 ### Media
