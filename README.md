@@ -126,6 +126,14 @@ The footer is consistently present across all pages and provides useful links an
 
 ### Validator testing
 - **HTML**
-    - Index: No errors were returned when passing through the official W3C validator<br> https://validator.w3.org/nu/?doc=https%3A%2F%2Fnaomihunt25.github.io%2Fceioty-media%2Findex.html 
+    - Index page: No errors were returned when passing through the official W3C validator<br> https://validator.w3.org/nu/?doc=https%3A%2F%2Fnaomihunt25.github.io%2Fceioty-media%2Findex.html 
+    - Services page: No errors were returned when passing through the official W3C validator<br> https://validator.w3.org/nu/?doc=https%3A%2F%2Fnaomihunt25.github.io%2Fceioty-media%2Fservices.html 
+    - Portfolio page: No errors were returned when passing through the official W3C validator<br> https://validator.w3.org/nu/?doc=https%3A%2F%2Fnaomihunt25.github.io%2Fceioty-media%2Fportfolio.html 
+    - Contact page: No errors were returned when passing through the official W3C validator<br> https://validator.w3.org/nu/?doc=https%3A%2F%2Fnaomihunt25.github.io%2Fceioty-media%2Fcontact.html 
+    - Success page: No errors were returned when passing through the official W3C validator<br> https://validator.w3.org/nu/?doc=https%3A%2F%2Fnaomihunt25.github.io%2Fceioty-media%2Fsuccess.html
+
+- **CSS**
+    - No issues were found after validating through the official Jigsaw validator.<br> https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fnaomihunt25.github.io%2Fceioty-media%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+    
 
  
