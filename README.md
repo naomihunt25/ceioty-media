@@ -158,7 +158,7 @@ The footer is consistently present across all pages and provides useful links an
 ***
 
 ### Accessibility testing
-I utilised Lighthouse within the Google DevTools to review the colours and fonts used. The outcomes are displayed below. Lighthouse also evaluates areas such as Performance, Accessibility, SEO, and Best Practices.
+I utilised Lighthouse within the Google DevTools to review the colours and fonts used. The outcomes are displayed below. Lighthouse also evaluates areas such as Performance, SEO, and Best Practices.
 
 **Index page** <br>
 ![lighthouse result index page](assets/images/lighthouse-index.webp)
