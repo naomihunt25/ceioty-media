@@ -182,4 +182,35 @@ The portfolio page received a score of 77 for performance and 78 for best practi
 **Success page** <br>
 ![lighthouse result success page](assets/images/lighthouse-success.webp)
 
-***
+### Manual testing
+- I’ve tested the website to ensure it functions across multiple web browsers. <br><br>
+- The site has been checked on a variety of device sizes to confirm it’s fully responsive, maintaining its design and functionality. <br><br>
+- Every link on the page (both internal and external) has been tested to verify they open correctly and lead to the right destinations. <br><br>
+- I reviewed the text and fonts to guarantee they are clear, easy to read, and user-friendly. <br><br>
+- The contact form was also tested to ensure they only allow valid entries and successfully redirect users to the confirmation page after submission. <br><br>
+Below are some screenshots showcasing how the site appears on different devices.
+
+### Desktop
+|Chrome 131.0.6778.109|Safari 17.4.1|Firefox 133.0|
+| ------------- | ------------- | ------------- |
+|![chrome index page](assets/images/chrome-index.webp)|![safari index page](assets/images/safari-index.webp)|![firefox index page](assets/images/firefox-index.webp)|
+|![chrome services page](assets/images/chrome-services.webp)|![safari services page](assets/images/safari-services.webp)|![firefox services page](assets/images/firefox-services.webp)|
+|![chrome portfolio page](assets/images/chrome-portfolio.webp)|![safari portfolio page](assets/images/safari-portfolio.webp)|![firefox portfolio page](assets/images/firefox-portfolio.webp)|
+|![chrome contact page](assets/images/chrome-contact.webp)|![safari contact page](assets/images/safari-contact.webp)|![firefox contact page](assets/images/firefox_contact.webp)|
+|![chrome success page](assets/images/chrome-success.webp)|![safari success page](assets/images/safari-success.webp)|![firefox success page](assets/images/firefox-success.webp)|
+
+### Mobile and tablet
+**Mobile - Safari iOS 18** <br>
+![Safari ios mobile index page](assets/images/ios-mobile-index.webp) ![Safari ios mobile navbar](assets/images/ios-mobile-navbar.webp)
+![Safari ios mobile services page](assets/images/ios-mobile-services.webp) ![Safari ios mobile portfolio page](assets/images/ios-mobile-portfolio.webp)
+![Safari ios mobile contact page](assets/images/ios-mobile-contact.webp) ![Safari ios mobile success page](assets/images/ios-mobile-success.webp) <br><br>
+
+**Android mobile - Chrome 131** <br>
+![Android mobile index page](assets/images/android-mobile-index.webp) ![Android mobile navbar](assets/images/android-mobile-navbar.webp)
+![Android mobile services page](assets/images/android-mobile-services.webp) ![Android mobile portfolio page](assets/images/android-mobile-portfolio.webp)
+![Android mobile contact page](assets/images/android-mobile-contact.webp) ![Android mobile success page](assets/images/android-mobile-success.webp) <br><br>
+
+**Tablet - Safari iOS 18**
+![Safari ios tablet index page](assets/images/tablet-index.webp) ![Safari ios tablet navbar](assets/images/tablet-navbar.png)
+![Safari ios tablet services page](assets/images/tablet-services.webp) ![Safari ios tablet portfolio page](assets/images/tablet-portfolio.webp)
+![Safari ios tablet contact page](assets/images/tablet-contact.webpp) ![Safari ios tablet success page](assets/images/tablet-success.webp) <br><br>
