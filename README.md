@@ -94,38 +94,38 @@ The home page serves as the first point of interaction for users, designed to be
 - **Hero section**: Features a captivating background image of Pembrokeshire’s coastline, along with the company name and slogan, reflecting the brand identity.  
 - **Introduction**: Provides a concise overview of Ceioty Media’s services, showcasing their expertise and creative approach.  
 - **Navigation bar**: A responsive navigation bar allows easy access to all major pages, ensuring a seamless experience across devices.
- ![Index](assets/images/features-homepage.webp)
+ ![Home page screenshot](assets/images/features-homepage.webp)
 
 ### **Services page**
 The services page details the range of professional drone services offered by Ceioty Media:
 - **Service descriptions**: Each service is clearly explained, so visitors can clearly see what Ceioty Media has to offer.  
 - **Visual elements**: Accompanied by high-quality images to provide context and showcase expertise. 
-![Index](assets/images/features-services-page.webp)
+![Service page screenshot](assets/images/features-services-page.webp)
 
 ### **Portfolio page**
 The portfolio page is a showcase of Ceioty Media’s best work, designed to impress and inform potential clients:
 - **Gallery layout**: A responsive grid displays high-resolution images and embedded videos.  
 - **Variety of project**: The portfolio highlights a diverse array of projects that demonstrate Ceioty Media's expertise and creativity.
-![Index](assets/images/features-portfolio-page.webp)
+![Portfolio page screenshot](assets/images/features-portfolio-page.webp)
 
 ### **About us page**
 The about page provides an overview of Ceioty Media’s history, expertise, and passion for creativity:
 - **professional and personal Tone**: Highlights the company's story, from its establishment in 2020 to its mission of delivering unique perspectives.  
 - **Credentials and insurance**: Emphasizes trustworthiness with details of drone licensing, £5 million public liability insurance, and commercial coverage.  
-![Index](assets/images/features-about-us.webp)
+![About section screenshot](assets/images/features-about-us.webp)
 
 ### **Contact page**
 The contact page makes it simple for clients to get in touch:
 - **Contact form**: Includes fields for name, email, and a message, ensuring clear communication.  
 - **Success feedback**: Users are redirected to a submission success page, confirming their message has been received.  
 - **Location details**: Includes information about Ceioty Media’s location.  
-![Index](assets/images/features-contact-us-page.webp)
-![Index](assets/images/features-success-page.webp)
+![Contact page screenshot](assets/images/features-contact-us-page.webp)
+![Success page screenshot](assets/images/features-success-page.webp)
 
 ### **Footer**
 The footer is consistently present across all pages and provides useful links and contact information:
-- **Social Media integration**: Links to Ceioty Media’s social media accounts, encouraging engagement.  
-![Index](assets/images/features-footer.webp)
+- **Social media integration**: Links to Ceioty Media’s social media accounts, encouraging engagement.  
+![Footer screenshot](assets/images/features-footer.webp)
 
 ***
 
@@ -144,7 +144,7 @@ The footer is consistently present across all pages and provides useful links an
     
 ***
 
-### User stories Testing
+### User stories testing
 |No.|Pass/Fail|Evidence|
 | ------------- | ------------- | ------------- |
 |1|Pass|As a **visitor**, I want to view a visually appealing and professional homepage so that I can quickly understand what services Ceioty Media offers. <br><br>**Task:** Ensure visitors can see a clear introduction, key services, and calls to action. <br><br>**Evidence**The homepage includes a strong header with a clear introduction about Ceioty Media’s services, such as aerial footage, event coverage, and photography. The services are succinctly explained, with visual elements guiding users toward actions like viewing more details or making enquiries.|
@@ -155,3 +155,23 @@ The footer is consistently present across all pages and provides useful links an
 |6|Pass|As a **mobile user**, I want the website to be fully responsive so that I can access it seamlessly on any device. <br><br>**Task:** Ensure the website displays correctly on different screen sizes and are easy to navigate on mobile and tablet devices. <br><br>**Evidence**The website adapts perfectly to different screen sizes, whether viewed on a mobile phone, tablet, or desktop. Images resize correctly, and the navigation bar collapses into a hamburger menu on smaller screens.|
 |7|Pass|As a **potential client**, I want to be able to contact Ceioty Media easily so that I can enquire about services or request a quote. <br><br>**Task:** Create a contact page which includes a contact form, phone number, and email address. <br><br>**Evidence**The Contact page features a simple, user-friendly contact form where potential clients can submit inquiries directly. Additionally, the page lists Ceioty Media’s phone number and email address for alternative methods of contact. Clear CTAs guide visitors to fill out the form or call for more details.|
 |8|Pass|As a **user with a visual impairment**, I want the site to be accessible so that I can comfortably navigate and use its features. <br><br>**Task:** Ensure the site passes accessibility tests, including contrast checks and screen reader compatibility. <br><br>**Evidence**The website passes accessibility tests. Additionally, alt text is provided for all images, making the site fully compatible with screen readers.|
+
+***
+
+### Accessibility testing
+I utilised Lighthouse within the Google DevTools to review the colours and fonts used. The outcomes are displayed below. Lighthouse also evaluates areas such as Performance, Accessibility, SEO, and Best Practices.
+
+**Index page**
+![lighthouse result index page](assets/images/lighthouse-index.webp)
+
+**Services page**
+![lighthouse result services page](assets/images/lighthouse-services.webp)
+
+**Portfolio page**
+![lighthouse result portfolio page](assets/images/lighthouse-portfolio.webp)
+
+**Contact page**
+![lighthouse result contact page](assets/images/lighthouse-contact.webp)
+
+**Success page**
+![lighthouse result success page](assets/images/lighthouse-success.webp)
