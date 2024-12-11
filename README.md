@@ -169,6 +169,12 @@ I utilised Lighthouse within the Google DevTools to review the colours and fonts
 
 **Portfolio page**
 ![lighthouse result portfolio page](assets/images/lighthouse-portfolio.webp)
+The portfolio page received a score of 77 for performance and 78 for best practices during the Google DevTools Lighthouse audit.
+
+Performance: The page scored 77 because, although the images were compressed and converted to the WebP format to optimize loading times, the high-quality images used were necessary to showcase the drone services effectively. This aligns with the requirements of User Story 4, which emphasized presenting high-resolution visuals to highlight the offerings. Additionally, YouTube videos were embedded instead of using the <video> tag, helping to improve loading speed by utilizing YouTube's optimized streaming infrastructure.
+
+![lighthouse result portfolio page](assets/images/lighthouse-portfolio-best-practices.webp)
+Best practices: The score of 78 was impacted by warnings about the use of third-party cookies, which arose from embedding YouTube videos. Since these cookies are an inherent part of YouTube's embedding functionality, they could not be modified or removed.
 
 **Contact page**
 ![lighthouse result contact page](assets/images/lighthouse-contact.webp)
