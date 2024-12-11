@@ -111,7 +111,7 @@ The portfolio page is a showcase of Ceioty Media’s best work, designed to impr
 ### **About us page**
 The about page provides an overview of Ceioty Media’s history, expertise, and passion for creativity:
 - **professional and personal Tone**: Highlights the company's story, from its establishment in 2020 to its mission of delivering unique perspectives.  
-- **Credentials and insurance**: Emphasizes trustworthiness with details of drone licensing, £5 million public liability insurance, and commercial coverage.  
+- **Credentials and insurance**: Emphasises trustworthiness with details of drone licensing, £5 million public liability insurance, and commercial coverage.  
 ![About section screenshot](assets/images/features-about-us.webp)
 
 ### **Contact page**
@@ -149,7 +149,7 @@ The footer is consistently present across all pages and provides useful links an
 | ------------- | ------------- | ------------- |
 |1|Pass|As a **visitor**, I want to view a visually appealing and professional homepage so that I can quickly understand what services Ceioty Media offers. <br><br>**Task:** Ensure visitors can see a clear introduction, key services, and calls to action. <br><br>**Evidence**: The homepage includes a strong header with a clear introduction about Ceioty Media’s services, such as aerial footage, event coverage, and photography. The services are succinctly explained, with visual elements guiding users toward actions like viewing more details or making enquiries.|
 |2|Pass|As a **potential client**, I want to learn about the drone services offered so that I can determine if they fit my project needs. <br><br>**Task:** Write descriptions of services (e.g. filming, photography, inspections) are available on the services page. <br><br>**Evidence**: On the Services page, Ceioty Media clearly lists its drone services, offering concise yet informative descriptions of drone filming, aerial photography, and property inspections.|
-|3|Pass, more required|As a **business owner**, I want to see examples of past work so that I can assess the quality of work and creativity. <br><br>**Task:** Creat a portfolio page that displays high-quality images and videos of past work. <br><br>**Evidence**: The Portfolio page displays an organized gallery of past projects, each showcased with high-quality images and videos. Testimonials would be a great feature to have added but was not a mandatory feature.|
+|3|Pass, more required|As a **business owner**, I want to see examples of past work so that I can assess the quality of work and creativity. <br><br>**Task:** Creat a portfolio page that displays high-quality images and videos of past work. <br><br>**Evidence**: The Portfolio page displays an organised gallery of past projects, each showcased with high-quality images and videos. Testimonials would be a great feature to have added but was not a mandatory feature.|
 |4|Pass|As a **property manager**, I want to learn about commercial property services so that I can enhance my property listings with aerial footage. <br><br>**Task:** Write information on commercial property services on the services page and add work to portfolio. <br><br>**Evidence**: The Services page includes a  section detailing Ceioty Media’s commercial property services.|
 |5|Pass|As a **visitor**, I want to easily navigate the website so that I can find the information I need quickly and efficiently. <br><br>**Task:** the website has a clear navigation bar with links to key pages. <br><br>**Evidence: **The website features a navigation bar at the top of every page with clear and well-labeled links to the Home, Services, Portfolio, and Contact Us pages. The navigation is fixed, staying at the top of the screen as the user scrolls.|
 |6|Pass|As a **mobile user**, I want the website to be fully responsive so that I can access it seamlessly on any device. <br><br>**Task:** Ensure the website displays correctly on different screen sizes and are easy to navigate on mobile and tablet devices. <br><br>**Evidence**: The website adapts perfectly to different screen sizes, whether viewed on a mobile phone, tablet, or desktop. Images resize correctly, and the navigation bar collapses into a hamburger menu on smaller screens.|
@@ -171,7 +171,7 @@ I utilised Lighthouse within the Google DevTools to review the colours and fonts
 ![lighthouse result portfolio page](assets/images/lighthouse-portfolio.webp) <br>
 The portfolio page received a score of 77 for performance and 78 for best practices during the Google DevTools Lighthouse audit.<br>
 
-*Performance*: The page scored 77 because, although the images were compressed and converted to the WebP format to optimize loading times, the high-quality images used were necessary to showcase the drone services effectively. This aligns with the requirements of User Story 4, which emphasized presenting high-resolution visuals to highlight the offerings. Additionally, YouTube videos were embedded instead of using the video tag, helping to improve loading speed by utilizing YouTube's optimized streaming infrastructure.<br>
+*Performance*: The page scored 77 because, although the images were compressed and converted to the WebP format to optimise loading times, the high-quality images used were necessary to showcase the drone services effectively. This aligns with the requirements of User Story 4, which emphasised presenting high-resolution visuals to highlight the offerings. Additionally, YouTube videos were embedded instead of using the video tag, helping to improve loading speed by utilising YouTube's optimised streaming infrastructure.<br>
 
 ![lighthouse result portfolio page](assets/images/lighthouse-portfolio-best-practices.webp) <br>
 *Best practices*: The score of 78 was impacted by warnings about the use of third-party cookies, which arose from embedding YouTube videos. Since these cookies are an inherent part of YouTube's embedding functionality, they could not be modified or removed.
@@ -281,3 +281,32 @@ The portfolio page media was showing white space in between columns.<br><br>
 ***
 
 ### Deployment
+**GitHub pages** 
+The website is hosted on GitHub Pages. To deploy it, follow these steps:
+1. Sign up to [Gitpod](https://gitpod.io/)
+2. Download the Gitpod browser extension.
+3. Navigate to the *Settings* tab in the [naomihunt25/ceioty-media repository](https://github.com/naomihunt25/ceioty-media) on GitHub.
+4. Click *Pages* within the code and automation section located on the left-hand side.
+5. In the *Branch* section, choose "main" branch and click *Save*.
+6. Once saved, the page will display a link under the deployment section on the [naomihunt25/ceioty-media repository](https://github.com/naomihunt25/ceioty-media), click *github-pages*.
+7. The Deployment page will be showing your live site URL. Click on the link to access the deployed website.
+
+**Fork**
+1. On [Gitpod](https://gitpod.io/), navigate to the [naomihunt25/ceioty-media repository](https://github.com/naomihunt25/ceioty-media).
+2. Click on the *Fork* button at the top-right corner of the page.
+3. Add a description to your fork.
+4. Click create fork to finalise the process.
+
+**Clone** 
+1. On [naomihunt25/ceioty-media repository](https://github.com/naomihunt25/ceioty-media), click the *Code* button above the list of files.
+2. Copy the repository URL.
+3. Open your terminal and navigate to the directory where you want to store the clone.
+4. Type git clone followed by the copied URL.
+5. Press enter to clone the repository.
+
+Live link - [Ceioty Media](https://naomihunt25.github.io/ceioty-media/index.html)
+
+***
+
+
+
