@@ -202,7 +202,7 @@ iframe {
 }
 
 /* Copyright section */
-#copyright p {
+.copyright p {
     color: var(--highlight-color);
     font-size: 10px;
 }
