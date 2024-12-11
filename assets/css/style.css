@@ -1,9 +1,7 @@
 /* Google fonts import */
-
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 /* CSS Variables */
-
 :root {
     --primary-font: "Nunito", sans-serif;
     --secondary-font: "Exo", serif;
@@ -18,7 +16,6 @@
 }
 
 /* Global styles */
-
 body {
     font-family: var(--primary-font);
     padding-top: 40px;
@@ -56,7 +53,6 @@ h2 {
 }
 
 /* Navbar */
-
 #navbar {
     background-color: white;
     font-family: var(--secondary-font);
@@ -82,7 +78,6 @@ h2 {
 }
 
 /* Header */
-
 .header {
     padding-bottom: 2rem;
 }
@@ -92,7 +87,6 @@ h2 {
 }
 
 /* About section */
-
 #about {
     background-color: var(--secondary-color);
     margin: 0;
@@ -111,7 +105,6 @@ p {
 }
 
 /* Brief service section on Home page */
-
 .brief-services .card {
     border: none;
     min-height: auto;
@@ -146,7 +139,6 @@ hr {
 }
 
 /* Portfolio page */
-
 #media img {
     width: 100%;
     line-height: 1em;
@@ -166,11 +158,9 @@ iframe {
 }
 
 /* Contact Us page */
-
 #contact-form {
     padding-bottom: 4rem;
 }
-
 
 /* Success page */
 .success p {
@@ -183,9 +173,7 @@ iframe {
 }
 
 /* Footer section */
-
 /*Contact section */
-
 #contact {
     background-color: var(--secondary-color);
     color: white;
@@ -214,14 +202,12 @@ iframe {
 }
 
 /* Copyright section */
-
 #copyright p {
     color: var(--highlight-color);
     font-size: 10px;
 }
 
 /* Media queries */
-
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     #media {
@@ -232,7 +218,6 @@ iframe {
 
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
-
     /* Make all service cards the same height for consistency */
     .list-of-services .col-lg-8 {
         text-align: left;
