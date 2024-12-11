@@ -200,17 +200,19 @@ Below are some screenshots showcasing how the site appears on different devices.
 |![chrome success page](assets/images/chrome-success.webp)|![safari success page](assets/images/safari-success.webp)|![firefox success page](assets/images/firefox-success.webp)|
 
 ### Mobile and tablet
-**Mobile - Safari iOS 18** <br>
-![Safari ios mobile index page](assets/images/ios-mobile-index.webp) ![Safari ios mobile navbar](assets/images/ios-mobile-navbar.webp)
-![Safari ios mobile services page](assets/images/ios-mobile-services.webp) ![Safari ios mobile portfolio page](assets/images/ios-mobile-portfolio.webp)
-![Safari ios mobile contact page](assets/images/ios-mobile-contact.webp) ![Safari ios mobile success page](assets/images/ios-mobile-success.webp) <br><br>
+|Mobile - Safari iOS 18|||
+| ------------- | ------------- |------------- |
+|![Safari ios mobile index page](assets/images/ios-mobile-index.webp)|![Safari ios mobile navbar](assets/images/ios-mobile-navbar.webp)|![Safari ios mobile services page](assets/images/ios-mobile-services.webp)| 
+|![Safari ios mobile portfolio page](assets/images/ios-mobile-portfolio.webp)|![Safari ios mobile contact page](assets/images/ios-mobile-contact.webp)|![Safari ios mobile success page](assets/images/ios-mobile-success.webp)| 
 
-**Android mobile - Chrome 131** <br>
-![Android mobile index page](assets/images/android-mobile-index.webp) ![Android mobile navbar](assets/images/android-mobile-navbar.webp)
-![Android mobile services page](assets/images/android-mobile-services.webp) ![Android mobile portfolio page](assets/images/android-mobile-portfolio.webp)
-![Android mobile contact page](assets/images/android-mobile-contact.webp) ![Android mobile success page](assets/images/android-mobile-success.webp) <br><br>
+|Android mobile - Chrome 131|||
+| ------------- | ------------- |------------- |
+|![Android mobile index page](assets/images/android-mobile-index.webp)|![Android mobile navbar](assets/images/android-mobile-navbar.webp)|![Android mobile services page](assets/images/android-mobile-services.webp)|
+|![Android mobile portfolio page](assets/images/android-mobile-portfolio.webp)|![Android mobile contact page](assets/images/android-mobile-contact.webp)|![Android mobile success page](assets/images/android-mobile-success.webp)| 
 
-**Tablet - Safari iOS 18**
-![Safari ios tablet index page](assets/images/tablet-index.webp) ![Safari ios tablet navbar](assets/images/tablet-navbar.png)
-![Safari ios tablet services page](assets/images/tablet-services.webp) ![Safari ios tablet portfolio page](assets/images/tablet-portfolio.webp)
-![Safari ios tablet contact page](assets/images/tablet-contact.webpp) ![Safari ios tablet success page](assets/images/tablet-success.webp) <br><br>
+|Tablet - Safari iOS 18|||
+| ------------- | ------------- |------------- |
+|![Safari ios tablet index page](assets/images/tablet-index.webp)|![Safari ios tablet navbar](assets/images/tablet-navbar.png)|![Safari ios tablet services page](assets/images/tablet-services.webp)|
+|![Safari ios tablet portfolio page](assets/images/tablet-portfolio.webp)|![Safari ios tablet contact page](assets/images/tablet-contact.webp)|![Safari ios tablet success page](assets/images/tablet-success.webp)| 
+
+***
