@@ -309,7 +309,7 @@ Live link - [Ceioty Media](https://naomihunt25.github.io/ceioty-media/index.html
 
 ### Credits
 #### Content
-- Elements and methodologies from the Code Institute Love Running project and the Boardwalk Games project were utilised as inspiration and guidance in the development of this website
+- Elements and methodologies from the [Code Institute](https://codeinstitute.net/)'s Love Running project and the Boardwalk Games project were utilised as inspiration and guidance in the development of this website
 - I used [Bootstrap](https://getbootstrap.com/) v5.3 to create key elements within the site including the auto-play slideshow, buttons and form
 - To ensure a thorough understanding of HTML and CSS code I wasn't confident with before implementation, I referred to [W3Schools](https://www.w3schools.com/) for guidance
 
