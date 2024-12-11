@@ -183,11 +183,11 @@ The portfolio page received a score of 77 for performance and 78 for best practi
 ![lighthouse result success page](assets/images/lighthouse-success.webp)
 
 ### Manual testing
-- I’ve tested the website to ensure it functions across multiple web browsers. <br><br>
-- The site has been checked on a variety of device sizes to confirm it’s fully responsive, maintaining its design and functionality. <br><br>
-- Every link on the page (both internal and external) has been tested to verify they open correctly and lead to the right destinations. <br><br>
-- I reviewed the text and fonts to guarantee they are clear, easy to read, and user-friendly. <br><br>
-- The contact form was also tested to ensure they only allow valid entries and successfully redirect users to the confirmation page after submission. <br><br>
+- I’ve tested the website to ensure it functions across multiple web browsers. 
+- The site has been checked on a variety of device sizes to confirm it’s fully responsive, maintaining its design and functionality. 
+- Every link on the page (both internal and external) has been tested to verify they open correctly and lead to the right destinations. 
+- I reviewed the text and fonts to guarantee they are clear, easy to read, and user-friendly. 
+- The contact form was also tested to ensure they only allow valid entries and successfully redirect users to the confirmation page after submission. 
 Below are some screenshots showcasing how the site appears on different devices.
 
 ### Desktop
