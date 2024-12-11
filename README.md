@@ -90,41 +90,40 @@ The wireframes below showcase the designs planned the Ceioty Media website. They
 
 ## Features
 ### **Home page**
-The home page serves as the first point of interaction for users, designed to be visually striking and informative:
-- **Hero section**: Features a captivating background image of Pembrokeshire’s coastline, along with the company name and slogan, reflecting the brand identity.  
-- **Introduction**: Provides a concise overview of Ceioty Media’s services, showcasing their expertise and creative approach.  
-- **Navigation bar**: A responsive navigation bar allows easy access to all major pages, ensuring a seamless experience across devices.
+The home page serves as the first point of interaction for users, designed to be visually striking and informative (User story 1 and 5):
+- **Autoplay slideshow section**: Features a variety of images take by Ceioty Media to show straight away their previous work.  
+- **Navigation bar**: A responsive navigation bar allows easy access to all major pages, ensuring a seamless experience across devices. <br><br>
  ![Home page screenshot](assets/images/features-homepage.webp)
 
 ### **Services page**
-The services page details the range of professional drone services offered by Ceioty Media:
+The services page details the range of professional drone services offered by Ceioty Media (User story 2 and 4):
 - **Service descriptions**: Each service is clearly explained, so visitors can clearly see what Ceioty Media has to offer.  
-- **Visual elements**: Accompanied by high-quality images to provide context and showcase expertise. 
+- **Visual elements**: Accompanied by high-quality images to provide context and showcase expertise. <br><br>
 ![Service page screenshot](assets/images/features-services-page.webp)
 
 ### **Portfolio page**
-The portfolio page is a showcase of Ceioty Media’s best work, designed to impress and inform potential clients:
+The portfolio page is a showcase of Ceioty Media’s best work, designed to impress and inform potential clients (User story 3):
 - **Gallery layout**: A responsive grid displays high-resolution images and embedded videos.  
-- **Variety of project**: The portfolio highlights a diverse array of projects that demonstrate Ceioty Media's expertise and creativity.
+- **Variety of project**: The portfolio highlights a diverse array of projects that demonstrate Ceioty Media's expertise and creativity. <br><br>
 ![Portfolio page screenshot](assets/images/features-portfolio-page.webp)
 
 ### **About us page**
 The about page provides an overview of Ceioty Media’s history, expertise, and passion for creativity:
-- **professional and personal Tone**: Highlights the company's story, from its establishment in 2020 to its mission of delivering unique perspectives.  
-- **Credentials and insurance**: Emphasises trustworthiness with details of drone licensing, £5 million public liability insurance, and commercial coverage.  
+- **Professional and personal Tone**: Highlights the company's story, from its establishment in 2020 to its mission of delivering unique perspectives.  
+- **Credentials and insurance**: Emphasises trustworthiness with details of drone licensing, £5 million public liability insurance, and commercial coverage. <br><br>  
 ![About section screenshot](assets/images/features-about-us.webp)
 
 ### **Contact page**
-The contact page makes it simple for clients to get in touch:
+The contact page makes it simple for clients to get in touch (User story 7):
 - **Contact form**: Includes fields for name, email, and a message, ensuring clear communication.  
 - **Success feedback**: Users are redirected to a submission success page, confirming their message has been received.  
-- **Location details**: Includes information about Ceioty Media’s location.  
+- **Location details**: Includes information about Ceioty Media’s location. <br><br> 
 ![Contact page screenshot](assets/images/features-contact-us-page.webp)
 ![Success page screenshot](assets/images/features-success-page.webp)
 
 ### **Footer**
 The footer is consistently present across all pages and provides useful links and contact information:
-- **Social media integration**: Links to Ceioty Media’s social media accounts, encouraging engagement.  
+- **Social media integration**: Links to Ceioty Media’s social media accounts, encouraging engagement. <br><br>  
 ![Footer screenshot](assets/images/features-footer.webp)
 
 ***
