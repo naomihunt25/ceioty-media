@@ -2,11 +2,15 @@
 
 ![Responsive mockup of website](assets/images/ceioty-media-mockup.webp)
 
+***
+
 ## Project description
 
 This project is designed for Unit 1: User-Centric Front-End Development, the project involves the design and development of a front-end web application. For the purpose of this project, I have chosen to create a website for **Ceioty Media**, a fictional drone service company that offers drone filming, photography and survey inspection services. This website will be designed with a focus on user experience (UX), utilising responsive design principles, effective content layout, and intuitive navigation to ensure the site is user-friendly across all devices.
 
 Though the business context is based on Ceioty Media, the core focus of this project is to apply the web development principles I have learnt in the course so far, demonstrating the skills required to build a functional, professional, and engaging website.
+
+***
 
 ## User experience (UX)
 
@@ -62,6 +66,8 @@ For the icons used throughout the website, I ensured that they were simple, intu
 ### Colour palette
 The colour palette for the website was chosen with both aesthetic appeal and accessibility in mind. The primary colour is deep teal (#005C6E), reflecting the company's coastal roots in Pembrokeshire, where much of their portfolio work focuses on capturing stunning coastline views. The colour combinations used were also checked using a contrast checker tool.
 
+***
+
 ## Wireframes (UX)
 The wireframes below showcase the designs planned the Ceioty Media website. They serve as a blueprint to guide the development process, ensuring that the site is user-focused and meets the needs of its intended audience.
 
@@ -79,6 +85,8 @@ The wireframes below showcase the designs planned the Ceioty Media website. They
 
 ### Success page design
 ![Success page wireframe](assets/images/success-page-wire-frame.webp)
+
+***
 
 ## Features
 ### **Home page**
@@ -111,3 +119,5 @@ The contact page makes it simple for clients to get in touch:
 ### **Footer**
 The footer is consistently present across all pages and provides useful links and contact information:
 - **Social Media integration**: Links to Ceioty Media’s social media accounts, encouraging engagement.  
+
+***
