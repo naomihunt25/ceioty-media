@@ -163,6 +163,10 @@ hr {
     width: 100%;
 }
 
+iframe {
+    border-width: 0px;
+}
+
 /* Contact Us page */
 
 #contact-form {
