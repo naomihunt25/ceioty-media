@@ -330,6 +330,7 @@ Live link - [Ceioty Media](https://naomihunt25.github.io/ceioty-media/index.html
 - All screenshots were taken from Ceioty Media's deployed site
 - The images and videos featured on the index and portfolio pages are my own original creations and property
 - Videos were embedded using [Youtube](https://www.youtube.com/)'s code 
+- I created wireframes using the [Balsamiq](https://balsamiq.com/) software
 
 
 
