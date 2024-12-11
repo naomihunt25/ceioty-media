@@ -25,10 +25,10 @@ The content will be laid out in a structured which is easy to navigate, there wi
 The site will be designed with a focus on the target audience's needs, ensuring a positive user experience. Features like quick navigation, easy-to-read fonts, and fast load times will be prioritised for ease of access. The content will also be optimised for accessibility, providing an inclusive experience for all users.
 
 4. **Interactive elements**:
-The website will feature interactive elements, such as hover effects, image sliders, and collapsible content sections, making the site engaging and user-friendly. This will encourage users to explore the services offered and contact the company.
+The website will feature interactive elements, such as hover effects and image sliders, making the site engaging and user-friendly. This will encourage users to explore the services offered and contact the company.
 
 ### Ceioty Media's goals
-1. **Increase customer engagement**: Encourage visitors to explore services, view the portfolio, and contact Ceioty Media for bookings or inquiries.
+1. **Increase customer engagement**: Encourage visitors to explore services, view the portfolio, and contact Ceioty Media for bookings or enquiries.
 
 2. **Showcase portfolio to raise brand awareness**: Highlight the company’s specialisation in drone services, including event coverage, business promotion, inspections, and B-Roll footage, with visually engaging content.
 
