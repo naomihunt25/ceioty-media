@@ -225,6 +225,14 @@ iframe {
 
 /* Media queries */
 
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    #media {
+        column-count: 2;
+        font-size: 0;
+    }
+}
+
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
 
